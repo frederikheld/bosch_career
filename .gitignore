@@ -1,0 +1,4 @@
+dist/
+deb_dist/
+bosch_career.egg-info/
+bosch_career-*.tar.gz
