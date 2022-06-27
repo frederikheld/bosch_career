@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 setup (
     name="bosch_career",
-    version="1.0.0",
+    version="1.0.1",
     description="Educational package about package security and the question what 'being a software company' means.",
     long_description=long_description_text,
     author="Frederik S. Held",

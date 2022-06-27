@@ -21,5 +21,5 @@ $ python3 setup.py --command-packages=stdeb.command bdist_deb
 ## Install Debian Package
 
 ```sh
-$ sudo dpkg -i deb_dist/python3-bosch-career_1.0.0-1_all.deb
+$ sudo dpkg -i deb_dist/python3-bosch-career_1.0.1-1_all.deb
 ```
