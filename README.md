@@ -10,19 +10,23 @@ The adverse effect could be even worse if the review mechanism of one of those r
 
 This project is also an artistic approach to spark the discussion about what "being a software company" actually means. It's certainly not about using fancy dev lingo in Insta ads. But what is it then?
 
-## Install Dev Tools
+## Usage
+
+This project is about raising awareness. The package itself does not provide any value. You can still install it if you want.
+
+### Install Dev Tools
 
 ```sh
 $ sudo apt-get install python3-stdeb dh-python
 ```
 
-## Create Debian Package
+### Create Debian Package
 
 ```sh
 $ python3 setup.py --command-packages=stdeb.command bdist_deb
 ```
 
-## Install Debian Package
+### Install Debian Package
 
 ```sh
 $ sudo dpkg -i deb_dist/python3-bosch-career_1.0.1-1_all.deb
