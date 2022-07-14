@@ -1,10 +1,10 @@
 # bosch_career apt package
 
-This is an educational apt package about the security implications of using install commands for marketing purposes without owning the corresponding package.
+This is an educational `apt` package about the security implications of using fancy dev lingo for marketing purposes without understanding what it means. In this specific case: using the command `apt install bosch_career` without owning the corresponding package.
 
-You can install it via `$ sudo apt install bosch_career` as you were instructed in some shady Insta ad by a self-proclaimed software company.
+It wouldn't be too hard to get a package with this name into tofficial apt repos of the various Linux distributions. Even the Debian community, which has a notoriously strict policy about which packages get into their official repo, does not care if the package delivers the value that some HR department promised in their Insta ads. Why should they? They only care if the package provides _any_ value to the users. The package could serve the exact opposite purpose of what the Insta ad promised and the responsible HR department would happily promote it without even knowing about it.
 
-This project is also an artistic approach to spark the discussion about what "being a software company" actually means. It's certainly not about posting fancy Insta ads. But what is it then?
+This project is also an artistic approach to spark the discussion about what "being a software company" actually means. It's certainly not about using fancy dev lingo in Insta ads. But what is it then?
 
 ## Install Dev Tools
 
